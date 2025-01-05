@@ -22,7 +22,7 @@ body
  
 #menu
 {
-    background-color: gray;
+    background-color: lightgray;
     margin-top: 20px;
     margin-bottom: 20px;
     color: #ffffff;
@@ -35,7 +35,7 @@ body
     width: 148px;
     min-height: 100px;
     padding:20px;
-    background-color: gray;
+    background-color: lightgray;
     text-align: center;
     font-size: 18px;
     border-right: 2px solid black;
@@ -46,7 +46,7 @@ body
     float: left;
     padding: 40px;
     width: 730px;
-    background-color: gray;
+    background-color: lightgray;
     min-height: 100px;
     text-align: justify;
 }
@@ -73,7 +73,7 @@ body
  
 .option:hover
 {
-    background-color: #000000;
+    background-color: white;
     cursor: pointer;
 }
  
@@ -109,16 +109,20 @@ body
 
 a:link {
   color: black;
+    text-decoration: none;
 }
 
 a:visited {
   color: black;
+    text-decoration: none;
 }
 
 a:hover {
   color: black;
+    text-decoration: none;
 }
 
 a:active {
   color: black;
+    text-decoration: none;
 }
